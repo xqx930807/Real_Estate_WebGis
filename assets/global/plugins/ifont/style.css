@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Ifont';
+    src:    url('fonts/Ifont.eot?sv3z4x');
+    src:    url('fonts/Ifont.eot?sv3z4x#iefix') format('embedded-opentype'),
+        url('fonts/Ifont.ttf?sv3z4x') format('truetype'),
+        url('fonts/Ifont.woff?sv3z4x') format('woff'),
+        url('fonts/Ifont.svg?sv3z4x#Ifont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ifont {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'Ifont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.Advanced_query:before {
+    content: "\e900";
+}
+.area:before {
+    content: "\e901";
+}
+.Autre_format:before {
+    content: "\e902";
+}
+.cercle:before {
+    content: "\e903";
+}
+.clear:before {
+    content: "\e904";
+}
+.clear_all:before {
+    content: "\e905";
+}
+.distance:before {
+    content: "\e906";
+}
+.edit_shape:before {
+    content: "\e907";
+}
+.elevation:before {
+    content: "\e908";
+}
+.ellipse:before {
+    content: "\e909";
+}
+.erase:before {
+    content: "\e90a";
+}
+.export_shape:before {
+    content: "\e90b";
+}
+.export-image:before {
+    content: "\e90c";
+}
+.filtre:before {
+    content: "\e90d";
+}
+.Freehand:before {
+    content: "\e90e";
+}
+.full-extent:before {
+    content: "\e90f";
+}
+.Help:before {
+    content: "\e910";
+}
+.identify:before {
+    content: "\e911";
+}
+.Identify-point:before {
+    content: "\e912";
+}
+.layers:before {
+    content: "\e913";
+}
+.new:before {
+    content: "\e914";
+}
+.next-extent:before {
+    content: "\e915";
+}
+.pan:before {
+    content: "\e916";
+}
+.plot:before {
+    content: "\e917";
+}
+.point:before {
+    content: "\e918";
+}
+.polygon:before {
+    content: "\e919";
+}
+.polygon_identify:before {
+    content: "\e91a";
+}
+.polyline:before {
+    content: "\e91b";
+}
+.polyline_identify:before {
+    content: "\e91c";
+}
+.previous-extent:before {
+    content: "\e91d";
+}
+.print:before {
+    content: "\e91e";
+}
+.Query:before {
+    content: "\e91f";
+}
+.query-result:before {
+    content: "\e920";
+}
+.rectangle:before {
+    content: "\e921";
+}
+.rectangle_identify:before {
+    content: "\e922";
+}
+.report:before {
+    content: "\e923";
+}
+.search-by-adress:before {
+    content: "\e924";
+}
+.search-by-business:before {
+    content: "\e925";
+}
+.search-by-pid:before {
+    content: "\e926";
+}
+.texte:before {
+    content: "\e927";
+}
+.triangle:before {
+    content: "\e928";
+}
+.zoom-in:before {
+    content: "\e929";
+}
+.zoom-out:before {
+    content: "\e92a";
+}
+.add-csv:before {
+    content: "\e92b";
+}
+.add-shapefile:before {
+    content: "\e92c";
+}
+

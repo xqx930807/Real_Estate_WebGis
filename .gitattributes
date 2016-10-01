@@ -2,7 +2,7 @@
 * text=auto
 
 # Custom for Visual Studio
-*.cs     diff=csharp
+*.cs     diff=PHP
 
 # Standard to msysgit
 *.doc	 diff=astextplain
